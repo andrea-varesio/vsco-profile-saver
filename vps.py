@@ -1,6 +1,6 @@
 #!/bin/python3
 #https://github.com/andrea-varesio/vsco-profile-saver
-#version = 20220525.01
+#version = 20230102.01
 
 '''Download all media files from your VSCO account'''
 
@@ -22,7 +22,7 @@ def show_license():
 
     print('\n**************************************************')
     print('"vsco-profile-saver": Download all media files from your VSCO account')
-    print('Copyright (C) 2022 Andrea Varesio (https://www.andreavaresio.com/).')
+    print('Copyright (C) 2023 Andrea Varesio (https://www.andreavaresio.com/).')
     print('This program comes with ABSOLUTELY NO WARRANTY')
     print('This is free software, and you are welcome to redistribute it under certain conditions')
     print('Full license available at https://github.com/andrea-varesio/vsco-profile-saver')
